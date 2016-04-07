@@ -1,0 +1,21 @@
+##############################################################################
+## Filename:          C:/Users/student/Desktop/RA184-2013/Vezba3/pcores/vga_peripheral_v1_00_a/data/vga_peripheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Apr 07 11:23:50 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib vga_peripheral_v1_00_a user_logic vhdl
+lib vga_peripheral_v1_00_a vga_peripheral vhdl
+lib vga_peripheral_v1_00_a char_rom
+lib vga_peripheral_v1_00_a char_rom_deeef
+lib vga_peripheral_v1_00_a dcm25MHz
+lib vga_peripheral_v1_00_a dcm50MHz
+lib vga_peripheral_v1_00_a dcm75MHz
+lib vga_peripheral_v1_00_a dcm108MHz
+lib vga_peripheral_v1_00_a graphics_mem
+lib vga_peripheral_v1_00_a text_mem
+lib vga_peripheral_v1_00_a vga
+lib vga_peripheral_v1_00_a vga_sync
+lib vga_peripheral_v1_00_a vga_top
